@@ -1,4 +1,5 @@
 # 🧑🏾‍💻 Julio Cezar
+# ⚡ Electrical Engineering - UFAL
 ----
 ## 🛠️ Tech Stacks
 
